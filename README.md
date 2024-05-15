@@ -12,3 +12,7 @@ This repository contains the implementation and related documentation for protei
 The work introduces key concepts about graph neural networks, details their structure step by step, and highlights their utility and applications in various areas. Three GNN models implemented and trained are compared to achieve the best possible performance in protein classification on the PROTEINS dataset.
 
 Results show that the models achieve high performance, with up to 72.5% accuracy on the validation set, highlighting the effectiveness of GNNs in protein classification.
+
+## Contributors
+- Ignacio Fernández Sánchez-Pascuala.
+- Javier Castellano Soria.
